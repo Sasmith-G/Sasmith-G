@@ -1,2 +1,2 @@
-# Sasmiith-G
+# Sasmith-G
 I’m a computer scientist who builds understanding from first principles. I focus on what lies beneath systems, how algorithms behave, how models learn, and where things break. I value depth over surface familiarity, reasoning over pattern recognition, and consistency over intensity. My aim is to think independently, build with intention, and improve systems with clarity rather than guesswork. I’m committed to a long path of disciplined learning and clear understanding.
